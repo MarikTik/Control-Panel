@@ -6,3 +6,4 @@
 
 .env
 push.sh
+scripts/append_public_config.py
